@@ -8,5 +8,7 @@ For visual feedback, there are two LEDs in this project. If a player has won, th
 To go one step further from the project, you could implement joysticks instead of pushbuttons for the paddles.
 
 Difficulty: Intermediate
+
 Designer: M Siva Sai
+
 Key Components: Arduino Uno, NeoPixel LEDs, piezoelectric crystal, resistors, pushbuttons, potentiometer, 16×2 LCD display, breadboard
