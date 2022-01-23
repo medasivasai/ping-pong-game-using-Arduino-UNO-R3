@@ -7,7 +7,7 @@
 */
 
 // include the LiquidCrystal library
-#include <>
+#include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 // include the Adafruit_NeoPixel library
